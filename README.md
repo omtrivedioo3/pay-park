@@ -29,4 +29,4 @@ Welcome to Pay and Park! This Java application is designed to help users find ne
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pay-and-park.git
+    https://github.com/omtrivedioo3/pay-park.git
